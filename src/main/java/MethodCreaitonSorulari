@@ -1,0 +1,13 @@
+METHOD CREATİON SORULARI
+
+1)İki tam sayının toplamını döndüren bir method oluşturun.
+2)Bir metnin uzunluğunu döndüren bir method oluşturun
+
+Cevaplar:
+1)public static int toplama(int sayi1, int sayi2) {
+      return sayi1 + sayi2;
+  }
+
+2)public static int metinUzunlugu(String metin) {
+      return metin.length();
+  }
