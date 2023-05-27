@@ -10,7 +10,6 @@ public class CharAt {
          */
 
         String sehir="Istanbul";
-        System.out.println("sehir.charAt(5) = " + sehir.charAt(5));
         char besinciindexkrktr = sehir.charAt(5);
         System.out.println(besinciindexkrktr);
 
