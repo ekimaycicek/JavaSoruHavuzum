@@ -72,5 +72,8 @@ c) Kullanıcı fahrenheit değerini 83 ve operatorü fahrenaytdanSantigarata ola
         }
 
 
-    }}
+    }
+
+
+}
 

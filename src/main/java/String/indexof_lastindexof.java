@@ -41,16 +41,21 @@ public class indexof_lastindexof {
          2-Girilen cumle 1 tane java iceriyor
          3-Girilen cumlede birden fazla java var
          */
+
+
         Scanner sc = new Scanner(System.in);
-        System.out.print("kafi mikta bir cümle  giriniz : ");
+        System.out.print("cümle giriniz ");
 
-        String cümle= sc.nextLine();
+        String a= sc.nextLine();
 
-        if(cümle.indexOf("java")==-1){
+        if(a.indexOf("java")==-1){
+
             System.out.println("girilen cümlede java yok");
 
-        }else if (cümle.indexOf("java")==cümle.lastIndexOf("java")){
+        }else if (a.indexOf("java")==a.lastIndexOf("java")){
+
             System.out.println("1 tane java var");
+
         }else System.out.println("birden fazla var");
 
 

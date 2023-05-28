@@ -1,3 +1,5 @@
+package OrhanKaynarSoru;
+
 import java.util.Scanner;
 
 public class StringManipulationSoru3 {
@@ -20,5 +22,4 @@ public class StringManipulationSoru3 {
 
 
     }
-    }
-
+}

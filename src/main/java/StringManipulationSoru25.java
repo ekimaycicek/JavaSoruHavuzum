@@ -12,7 +12,7 @@ public class StringManipulationSoru25 {
         String str=sc.nextLine();
 
         if (str.contains(" ")){
-            System.out.println("boslık var");
+            System.out.println("bosluk var");
         }
 
 
