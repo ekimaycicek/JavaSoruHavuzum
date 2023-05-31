@@ -2,7 +2,8 @@ package String;
 
 import java.util.Scanner;
 
-public class Substring {
+public class
+Substring {
 
     public static void main(String[] args) {
 

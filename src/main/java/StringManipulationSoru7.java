@@ -25,6 +25,12 @@ public class StringManipulationSoru7 {
         System.out.println(" "+soyad.substring(0, 1).toUpperCase() + soyad.substring(1));
 
 
+
+
+
+
+
+
     }
 
 
