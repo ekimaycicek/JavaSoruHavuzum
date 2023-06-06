@@ -1,0 +1,29 @@
+Yöntem	                         Tanım
+Matematik.abs():	Verilen değerin Mutlak değerini döndürür.
+Matematik.max():	İki değerden En Büyüğünü döndürür.
+Matematik.min():	İki değerden en küçüğünü döndürmek için kullanılır.
+Math.round():	Ondalık sayıları en yakın değere yuvarlamak için kullanılır.
+Math.sqrt():	Bir sayının karekökünü döndürmek için kullanılır.
+Math.cbrt():	Bir sayının küp kökünü döndürmek için kullanılır.
+Math.pow(): 	Birinci bağımsız değişkenin değerini ikinci bağımsız değişkenin üssüne yükselterek döndürür.
+Math.signum():	Belirli bir değerin işaretini bulmak için kullanılır.
+Matematik.ceil():	Argüman veya matematiksel tamsayıdan büyük veya ona eşit olan en küçük tamsayı değerini bulmak için kullanılır.
+Math.CopySign():	Birinci argümanın Mutlak değerini ve ikinci argümanda belirtilen işareti bulmak için kullanılır.
+Math.nextAfter():	Birinci bağımsız değişkenin yanındaki kayan noktalı sayıyı ikinci bağımsız değişken yönünde döndürmek için kullanılır.
+Math.nextUp():	Pozitif sonsuz yönünde d'ye bitişik kayan nokta değerini döndürür.
+Math.nextDown():	Negatif sonsuz yönünde d'ye bitişik kayan nokta değerini döndürür.
+Matematik.kat():	Argümandan küçük veya ona eşit olan ve bir çift değerin matematiksel tamsayısına eşit olan en büyük tamsayı değerini bulmak için kullanılır.
+Math.floorDiv():	Cebirsel bölümden küçük veya ona eşit olan en büyük tam sayı değerini bulmak için kullanılır.
+Matematik.random():	0,0'dan büyük veya ona eşit ve 1,0'dan küçük pozitif işaretli bir çift değer döndürür.
+Math.rint():	Verilen bağımsız değişkene en yakın ve matematiksel tamsayıya eşit olan çift değeri döndürür.
+Math.hypot():	Ara taşma veya alt akış olmadan sqrt(x 2  +y 2 ) döndürür .
+Math.ulp():	Argümanın bir ulp boyutunu döndürür.
+Math.getExponent():	Bir değerin gösteriminde kullanılan yansız üssü döndürmek için kullanılır.
+Math.IEEEremainder():	IEEE 754 standardında belirtildiği gibi iki argüman üzerinde kalan işlemi hesaplamak için kullanılır ve değer döndürür.
+Math.addExact():	Bağımsız değişkenlerinin toplamını döndürmek için kullanılır ve sonuç bir int veya uzun değerden taşarsa bir istisna atar.
+Math.subtractExact():	Sonuç bir int'den taşarsa bir istisna atarak bağımsız değişkenlerin farkını döndürür.
+Math.multiplyExact():	Argümanların ürününü döndürmek için kullanılır ve sonuç bir int veya uzun değerden taşarsa bir istisna atar.
+Math.incrementExact():	Sonuç bir int'den taşarsa bir istisna atarak argümanı birer birer döndürür.
+Math.decrementExact():	Argümanı bir azaltılmış olarak döndürmek için kullanılır ve sonuç bir int veya uzun değerden taşarsa bir istisna atar.
+Math.negateExact():	Sonuç bir int veya uzun değerden taşarsa bir istisna atarak argümanın olumsuzlamasını döndürmek için kullanılır.
+Math.toIntExact():	Değer bir int'den taşarsa bir istisna atarak, uzun bağımsız değişkenin değerini döndürür.

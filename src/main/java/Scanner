@@ -1,0 +1,24 @@
+next(): Bir sonraki boşluğa veya yeni satıra kadar olan girişi alır.
+nextLine(): Bir sonraki satır girişini alır.
+nextInt(): Bir sonraki tamsayı girişini alır.
+nextDouble(): Bir sonraki ondalık sayı girişini alır.
+nextBoolean(): Bir sonraki boolean değer girişini alır.
+nextByte(): Bir sonraki byte girişini alır.
+nextShort(): Bir sonraki short girişini alır.
+nextLong(): Bir sonraki long girişini alır.
+nextFloat(): Bir sonraki float girişini alır.
+nextBigInteger(): Bir sonraki BigInteger girişini alır.
+nextBigDecimal(): Bir sonraki BigDecimal girişini alır.
+next(Pattern pattern): Belirtilen desene uygun bir sonraki girişi alır.
+hasNext(): Bir sonraki girişin var olup olmadığını kontrol eder.
+hasNextLine(): Bir sonraki satırın var olup olmadığını kontrol eder.
+hasNextInt(): Bir sonraki tamsayının var olup olmadığını kontrol eder.
+hasNextDouble(): Bir sonraki ondalık sayının var olup olmadığını kontrol eder.
+hasNextBoolean(): Bir sonraki boolean değerin var olup olmadığını kontrol eder.
+hasNextByte(): Bir sonraki byte değerin var olup olmadığını kontrol eder.
+hasNextShort(): Bir sonraki short değerin var olup olmadığını kontrol eder.
+hasNextLong(): Bir sonraki long değerin var olup olmadığını kontrol eder.
+hasNextFloat(): Bir sonraki float değerin var olup olmadığını kontrol eder.
+hasNextBigInteger(): Bir sonraki BigInteger değerin var olup olmadığını kontrol eder.
+hasNextBigDecimal(): Bir sonraki BigDecimal değerin var olup olmadığını kontrol eder.
+reset(): Scanner nesnesini sıfırlar ve başlangıç durumuna getirir.

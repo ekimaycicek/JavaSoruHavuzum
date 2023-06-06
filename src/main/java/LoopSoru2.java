@@ -21,4 +21,24 @@ public class LoopSoru2 {
             }
 
         }
+
+        /*
+        Bu kod bloğu, kullanıcıdan bir sayı girmesini isteyen ve girilen sayıdan başlayarak 100'e kadar olan sayılar
+        arasında 4'e tam bölünen sayıları ekrana yazdıran bir programdır.
+
+İlk olarak, Scanner sınıfı kullanılarak bir Scanner nesnesi oluşturulur ve kullanıcıdan bir sayı girmesi istenir.
+
+Daha sonra, girilen sayı sayı adlı bir int değişkenine atanır.
+
+Şimdi, if bloğu kullanılarak girilen sayının 100'den büyük olup olmadığı kontrol edilir. Eğer sayı 100'den büyükse,
+ "agam düzgün sayı gir" şeklinde bir çıktı verilir.
+
+Eğer sayı 100'den küçük veya eşitse, for döngüsü kullanılarak i değişkeni sayı değerinden başlayarak 100'e
+ kadar olan sayıları kontrol eder. Döngü, i'nin 100'e kadar olan değerleri için çalışır.
+
+Her bir i değeri için, i'nin 4'e tam bölünüp bölünmediği kontrol edilir. Eğer i 4'e tam bölünüyorsa, i değeri ekrana yazdırılır.
+
+Sonuç olarak, kullanıcının girdiği sayıdan başlayarak 100'e kadar olan sayılar arasında 4'e tam bölünen
+ sayılar ekrana yazdırılır. Eğer girilen sayı 100'den büyükse, hata mesajı verilir.
+         */
     } }

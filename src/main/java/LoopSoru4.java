@@ -14,22 +14,23 @@ public class LoopSoru4 {
        */
 
 
-        Scanner sc=new Scanner(System.in); //İlk olarak, Scanner sınıfını kullanarak kullanıcıdan veri girişi alabilmek için bir Scanner nesnesi olan sc oluşturulur
+        Scanner sc=new Scanner(System.in);
 
-        System.out.println("1 den büyük sayı giriniz: "); //Kullanıcıya "1 den büyük sayı giriniz: " mesajı System.out.println() yöntemiyle ekrana yazdırılır.
+        System.out.println("1 den büyük sayı giriniz: ");
 
-        int sayı=sc.nextInt();//Kullanıcının girdiği sayı sc.nextInt() yöntemiyle okunur ve sayı değişkenine atanır.
+        int sayı=sc.nextInt();
 
-        int toplam=0;//toplam adında bir int değişkeni oluşturulur ve başlangıç değeri olarak 0 atanır.
+        int toplam=0;
 
-        for (int i = 1; i <sayı ; i++) { //for döngüsü kullanılarak i değişkeni 1'den başlayarak sayı'ya kadar artırılır.
+        for (int i = 1; i <sayı ; i++) {
 
-            toplam+=(i*i);//Her döngü adımında, i'nin karesi i*i hesaplanır ve toplam değişkenine eklenir.
-
-
+            toplam+=(i*i);
 
 
-        } System.out.println("toplam = " + toplam);
+
+
+        }
+        System.out.println("toplam = " + toplam);
 
     }
     }
