@@ -1,3 +1,5 @@
+package stringManipulationSorular;
+
 public class StringManipulationSoru23 {
 
     public static void main(String[] args) {

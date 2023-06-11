@@ -1,4 +1,4 @@
-package SoruHavuzu;
+package methodCreationSorular;
 
 public class MethodCreationSoru8 {
 

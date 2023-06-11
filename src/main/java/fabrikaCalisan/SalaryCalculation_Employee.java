@@ -1,4 +1,4 @@
-package FabrikaCalisan;
+package fabrikaCalisan;
 
 public class SalaryCalculation_Employee {
 

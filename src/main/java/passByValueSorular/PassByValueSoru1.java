@@ -1,3 +1,5 @@
+package passByValueSorular;
+
 public class PassByValueSoru1 {
 
 
@@ -11,7 +13,6 @@ public class PassByValueSoru1 {
         System.out.println("indir11(fiyat) = " + indir11(fiyat));
         System.out.println("indir22(fiyat) = " + indir22(fiyat));
         // System.out.println("indir33(fiyat) = " + indir33(fiyat));
-
         System.out.println("method call sonrası fiyat  değeri = " + fiyat);//100
 
 

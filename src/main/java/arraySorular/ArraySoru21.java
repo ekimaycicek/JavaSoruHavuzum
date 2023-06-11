@@ -1,9 +1,9 @@
-package ArraysSorular;
+package arraySorular;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class Arrays21 {
+public class ArraySoru21 {
 
      /*
         İsmi changeInArraylist() olan bir method oluşturun.

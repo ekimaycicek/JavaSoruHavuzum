@@ -1,3 +1,5 @@
+package nestedLoopSorular;
+
 public class NestedLoopSoru1 {
 
     public static void main(String[] args) {

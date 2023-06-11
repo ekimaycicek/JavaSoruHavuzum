@@ -1,3 +1,5 @@
+package nestedLoopSorular;
+
 import java.util.Scanner;
 
 public class NestedLoopSoru3 {

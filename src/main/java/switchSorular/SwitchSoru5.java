@@ -1,3 +1,5 @@
+package switchSorular;
+
 import java.util.Scanner;
 
 public class SwitchSoru5 {

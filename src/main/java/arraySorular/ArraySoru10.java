@@ -1,6 +1,6 @@
-package ArraysSorular;
+package arraySorular;
 
-public class Arrays10 {
+public class ArraySoru10 {
 
     public static void main(String[] args) {
 
@@ -13,7 +13,7 @@ public class Arrays10 {
 
         String arr[]=str.replace(" ", "").split("");
 
-        System.out.println("arr.length = " + arr.length);
+        System.out.println(arr.length);
 
 
     }

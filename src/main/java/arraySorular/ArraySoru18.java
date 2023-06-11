@@ -1,9 +1,9 @@
-package ArraysSorular;
+package arraySorular;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class Arrays18 {
+public class ArraySoru18 {
 
      /*
         ismi getCount() olan bir method oluşturun.

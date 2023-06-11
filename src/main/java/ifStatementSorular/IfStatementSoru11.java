@@ -1,8 +1,8 @@
-package IfStatementSorular;
+package ifStatementSorular;
 
 import java.util.Scanner;
 
-public class İfSoru2 {
+public class IfStatementSoru11 {
 
 
       /*

@@ -1,3 +1,5 @@
+package sayiDonusturme;
+
 import java.util.Scanner;
 
 public class SayiDonusturme {

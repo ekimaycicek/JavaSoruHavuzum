@@ -1,6 +1,6 @@
-package ArraysSorular;
+package arraySorular;
 
-public class Arrays28 {
+public class ArraySoru28 {
 
     public static void main(String[] args) {
         /* TASK :

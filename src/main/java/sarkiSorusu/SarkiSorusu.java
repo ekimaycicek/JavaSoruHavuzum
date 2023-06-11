@@ -1,3 +1,5 @@
+package sarkiSorusu;
+
 import java.util.Arrays;
 
 public class SarkiSorusu {

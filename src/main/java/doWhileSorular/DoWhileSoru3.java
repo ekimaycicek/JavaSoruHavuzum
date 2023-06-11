@@ -1,6 +1,8 @@
+package doWhileSorular;
+
 import java.util.Scanner;
 
-public class DoWhile3 {
+public class DoWhileSoru3 {
 
     public static void main(String[] args) {
 

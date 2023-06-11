@@ -1,9 +1,9 @@
-package ArraysSorular;
+package arraySorular;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class Arrays16 {
+public class ArraySoru16 {
 
     public static void main(String[] args) {
 

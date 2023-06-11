@@ -1,4 +1,4 @@
-package Bilet;
+package bilet;
 
 import java.util.Scanner;
 

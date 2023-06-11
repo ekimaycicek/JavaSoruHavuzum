@@ -69,14 +69,11 @@ public class method {
 
     Scanner input = new Scanner(System.in);
 
-    public void hangiKahveSec() {//hangiKahveSec() metodu kullanıcının hangi tür kahveyi seçeceğini sormaktadır.
+    public void hangiKahveSec() {
         System.out.println("hangi kahveyi istersiniz");
         System.out.println("Türk Kahvesi ,Filtre Kahve,Expresso");
-        hangiKahve = input.nextLine().toLowerCase(); // Kullanıcıdan "Türk Kahvesi", "Filtre Kahve" veya
-        // "Expresso" şeklinde bir giriş alır ve girilen değeri küçük harflere çevirir.
+        hangiKahve = input.nextLine().toLowerCase();
 
-
-//switch ifadesi, kullanıcının seçimine göre ilgili kahve türünü seçer ve ilgili metotları çağırır:
 
         switch (hangiKahve){
             case "türk kahvesi":
@@ -105,14 +102,11 @@ public class method {
         }
     }
 
-    public void sutSec(){//sutSec() metodu, kullanıcıya süt eklemek isteyip istemediğini sorar.
-        // Kullanıcıdan "Evet" veya "Hayır" şeklinde
+    public void sutSec(){
 
 
         System.out.println("Süt eklememizi ister misiniz ? (Evet veya Hayır olarak cevaplayınız):    ");
-        sut=input.next().toLowerCase(); //bir giriş alır ve girilen değeri küçük harflere çevirir.
-        // Ardından süt eklenip eklenmediğine dair bir çıktı verir.
-
+        sut=input.next().toLowerCase();
         switch (sut){
             case "evet":
                 System.out.println("Kahvenize süt ekleniyor" );
@@ -121,10 +115,7 @@ public class method {
                 System.out.println("Kahvenize süt eklenmiyor" );
         }
     }
-    public void sekerSec(){ //sekerSec() metodu, kullanıcıya şeker eklemek isteyip
-        // istemediğini sorar. Kullanıcıdan "Evet" veya "Hayır"
-       // şeklinde bir giriş alır ve girilen değeri küçük harflere çevirir.
-        // Şekerin eklenip eklenmediğine göre bir çıktı verir.
+    public void sekerSec(){
         System.out.println("Şeker eklememizi ister misiniz ? (Evet veya Hayır olarak cevaplayınız):    ");
         seker=input.next().toLowerCase();
         if (seker.equals("evet")){
@@ -135,10 +126,7 @@ public class method {
         }
     }
 
-    public void boyutSec(){//boyutSec() metodu, kullanıcıya kahvenin hangi boyutta olmasını istediğini sorar.
-        // Kullanıcıdan "Büyük",
-       // "Orta" veya "Küçük" şeklinde bir giriş alır ve girilen değeri küçük harflere çevirir.
-        // Seçilen boyuta göre bir çıktı verir.
+    public void boyutSec(){
         System.out.println("Hangi boyutta olsun? (Büyük  - orta  - küçük  olarak giriniz.");
         boyut=input.next().toLowerCase();
 
@@ -151,7 +139,7 @@ public class method {
         }
 
     }
-    public void sonuc(){//sonuc() metodu, kullanıcının seçtiği kahvenin, boyutunun ve ekstralarının bir özetini verir.
+    public void sonuc(){
 
         System.out.println("Kahveniz " + boyut +" "  + "boy " +   hangiKahve + " şeklinde hazırlandı.Afiyet Olsun..." ) ;
 

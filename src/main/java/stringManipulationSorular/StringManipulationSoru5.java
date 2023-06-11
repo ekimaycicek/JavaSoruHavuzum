@@ -1,4 +1,4 @@
-package SoruHavuzu;
+package stringManipulationSorular;
 
 public class StringManipulationSoru5 {
 

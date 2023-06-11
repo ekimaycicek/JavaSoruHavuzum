@@ -1,4 +1,4 @@
-package SoruHavuzu;
+package karsilastirmaOperatoruSorular;
 
 public class KarsilastirmaOperatoruSoru4 {
 

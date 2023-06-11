@@ -1,4 +1,4 @@
-package KelimeTahmin;
+package kelimeTahmin;
 
 import java.util.Scanner;
 

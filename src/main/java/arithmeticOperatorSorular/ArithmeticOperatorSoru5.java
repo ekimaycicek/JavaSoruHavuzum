@@ -1,4 +1,4 @@
-package SoruHavuzu;
+package arithmeticOperatorSorular;
 
 import java.util.Scanner;
 

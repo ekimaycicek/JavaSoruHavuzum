@@ -1,4 +1,4 @@
-package SoruHavuzu;
+package karsilastirmaOperatoruSorular;
 
 import java.util.Scanner;
 

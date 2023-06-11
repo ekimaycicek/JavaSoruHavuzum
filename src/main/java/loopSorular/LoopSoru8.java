@@ -1,3 +1,5 @@
+package loopSorular;
+
 import java.util.Scanner;
 
 public class LoopSoru8 {

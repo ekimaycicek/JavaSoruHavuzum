@@ -1,8 +1,8 @@
-package ArraysSorular;
+package arraySorular;
 
 import java.util.Arrays;
 
-public class Arrays3 {
+public class ArraySoru3 {
 
     public static void main(String[] args) {
         // Task-> verilen bir int arrayi elemanlrını buyukten kucuge siralayip return eden METHOD create ediniz

@@ -1,6 +1,8 @@
+package asansor;
+
 import java.util.Scanner;
 
-public class EkoAsansörHizmeti {
+public class EkoAsansorHizmeti {
 
     private static int katSayisi = 5; 
 

@@ -1,3 +1,5 @@
+package artikYilKontrolu;
+
 import java.util.Scanner;
 
 public class ArtikYilKontrolu {

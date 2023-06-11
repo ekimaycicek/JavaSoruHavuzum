@@ -1,3 +1,5 @@
+package nakliyeSorusu;
+
 import java.util.*;
 
 public class EkoNakliye {

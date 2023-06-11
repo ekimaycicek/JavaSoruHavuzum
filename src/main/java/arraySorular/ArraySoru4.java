@@ -1,6 +1,6 @@
-package ArraysSorular;
+package arraySorular;
 
-public class Arrays4 {
+public class ArraySoru4 {
 
     public static void main(String[] args) {
 

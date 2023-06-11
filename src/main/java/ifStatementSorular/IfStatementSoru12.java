@@ -1,8 +1,8 @@
-package IfStatementSorular;
+package ifStatementSorular;
 
 import java.util.Scanner;
 
-public class İfSoru3 {
+public class IfStatementSoru12 {
 
     /*
    not hesaplayici

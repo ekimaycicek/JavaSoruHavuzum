@@ -1,8 +1,8 @@
-package IfStatementSorular;
+package ifStatementSorular;
 
 import java.util.Scanner;
 
-public class İfSoru1 {
+public class IfStatementSoru13 {
 
     /*
      * Kullanicidan Y/N ikilisinden birisini girdiginde girdigi degeri

@@ -1,10 +1,10 @@
-package ArraysSorular;
+package arraySorular;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Arrays12 {
+public class ArraySoru12 {
 
     public static void main(String[] args) {
 

@@ -1,9 +1,9 @@
-package ArraysSorular;
+package arraySorular;
 
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class Arrays14 {
+public class ArraySoru14 {
 
     public static void main(String[] args) {
 

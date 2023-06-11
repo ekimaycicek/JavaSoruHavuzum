@@ -1,4 +1,4 @@
-package SoruHavuzu;
+package stringManipulationSorular;
 
 import java.util.Scanner;
 

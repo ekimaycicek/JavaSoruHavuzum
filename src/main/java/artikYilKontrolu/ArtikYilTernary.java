@@ -1,3 +1,5 @@
+package artikYilKontrolu;
+
 public class ArtikYilTernary {
 
 

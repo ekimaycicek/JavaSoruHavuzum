@@ -1,3 +1,5 @@
+package loopSorular;
+
 public class LoopSoru3 {
 
     public static void main(String[] args) {

@@ -1,9 +1,9 @@
-package ArraysSorular;
+package arraySorular;
 
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Arrays24 {
+public class ArraySoru24 {
 
     public static void main(String[] args) {
         //Task-> girilen 7 elemanlı bir int  arrayın tek elemanlarını print eden kodu yazınız

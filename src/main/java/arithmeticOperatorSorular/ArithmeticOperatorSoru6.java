@@ -1,4 +1,4 @@
-package SoruHavuzu;
+package arithmeticOperatorSorular;
 
 public class ArithmeticOperatorSoru6 {
 

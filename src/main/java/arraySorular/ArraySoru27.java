@@ -1,9 +1,9 @@
-package ArraysSorular;
+package arraySorular;
 
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Arrays27 {
+public class ArraySoru27 {
 
     public static void main(String[] args) {
         // Task -> Kullanıcıdan alacağınız 5 adet sayıyı , girişi sırasına göre tersten print eden code create ediniz

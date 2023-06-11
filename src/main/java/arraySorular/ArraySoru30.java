@@ -1,8 +1,8 @@
-package ArraysSorular;
+package arraySorular;
 
 import java.util.Scanner;
 
-public class Arrays30 {
+public class ArraySoru30 {
 
     public static void main(String[] args) {
         /* TASK :

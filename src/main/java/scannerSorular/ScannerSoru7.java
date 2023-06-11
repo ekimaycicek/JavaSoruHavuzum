@@ -1,4 +1,4 @@
-package SoruHavuzu;
+package scannerSorular;
 
 import java.util.Scanner;
 

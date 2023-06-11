@@ -1,3 +1,5 @@
+package stringManipulationSorular;
+
 import java.util.Scanner;
 
 public class StringManipulationSoru15 {

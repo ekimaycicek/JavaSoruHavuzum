@@ -1,8 +1,8 @@
-package ArraysSorular;
+package arraySorular;
 
 import java.util.Arrays;
 
-public class Arrays17 {
+public class ArraySoru17 {
 
     public static void main(String[] args) {
 

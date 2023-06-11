@@ -1,4 +1,4 @@
-package BakkalAmca;
+package bakkalAmca;
 
 import java.util.ArrayList;
 import java.util.Arrays;

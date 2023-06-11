@@ -1,4 +1,4 @@
-import java.util.Scanner;
+package loopSorular;
 
 public class LoopSoru7 {
 

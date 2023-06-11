@@ -1,4 +1,6 @@
-public class DoWhile4 {
+package doWhileSorular;
+
+public class DoWhileSoru4 {
 
     public static void main(String[] args) {
 
