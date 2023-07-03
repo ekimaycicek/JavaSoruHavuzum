@@ -1,0 +1,34 @@
+1- Yakamoz Sarkuteri luks tuketim urunleri satan bir isletmedir.
+    2- Bu program isletmenin urun yonetim yazilimidir.
+    3- Bu yazilim icerisinde urun tanimlama, stok takibi, depo yonetimi ve ilgili ekranlar bulunmaktadir.
+
+    4- Burada oncelikle urunun tanimlamasi  yapilir.  (pojoUrun)
+            id
+            urunIsmi
+            urun grubu
+            uretici
+            miktar
+            birim
+            son tuketim tarihi
+            raf (7 adet fields mevcut)
+    5-  Methodlar olusturacagiz.
+        urunTanimlama   ==> Otomatik ID verecek. urunun ismi, urun grubu, ureticisi, son kullanma tarihi ve birimi girilecek.
+                            MAP<id,pojoUrun>   RAF="-"ve Miktar=0 (arraylist)
+        stokYonetimi    ==> Tanimlanan urunler listelenecek. urun arama yapilabilecek.
+                            Urunun adeti ve raf numarasi tanimlama yapilmadiysa default deger gorunsun.     printf(%10
+        urunGirisi      ==> Giris yapmak istedigimiz urnunun id numarasi ile girecegiz.
+        urunuRafaKoy    ==> Listeden urunu sececegiz ve id numarasina gore urunu rafa koyacagiz.
+                            Dukkandaki tum raflari onceden tanmliyor olmaliyiz.
+        urunCikisi      ==> Listeden urunu sececegiz ve urunun cikis yapcagiz.
+                            Burada urun listesinden sadece miktarda degisiklik yapilacak. Urun adedi 0' dan az olamaz.
+                            0 olunca urun tanimlamasi silinmesin. Sadece miktari 0 olsun.  -exception-
+                        ==> Yaptigimiz tum degisiklikler urun listesinde de gorunsun.
+
+
+                        Not: *ürünleri gruplara göre listele
+                        *günümüz tarihinden ürünün son kullanma tarihi geçerse ürün otomatik kaldırılmış olsun raftan ve bunu stok kontrol kısmında belirtelim
+                        *stok kontrol kısmında ürünlerin ne kadar olduğu ve ne olduğu gözüksün , rapor olarak da toplam ürün yazdırsın
+                        *yeni bir ürünfiyatlandırması oluşturup bunu gerçek bir markete dönüştürüp ürün çıkışlarında fiş yazdıralım
+                        *barkod
+                        *raf kapasitesi ve limit belirleme
+

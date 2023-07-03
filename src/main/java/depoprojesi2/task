@@ -1,0 +1,29 @@
+Yakamoz Sarkuteri luks tuketim urunleri satan bir isletmedir.
+Bu program isletmenin urun yonetim yazilimidir.
+Bu yazilim icerisinde urun tanimlama, stok takibi, depo yonetimi ve ilgili ekranlar bulunmaktadir.
+Bu yazilim icerisinde urun tanimlama, stok takibi, depo yönetimi ve ilgili ekranla bulunmaktadır.
+
+ /*
+
+Business Requirements & Functional Requirements
+
+1-) burada oncelikle urunun tanimlamasi  yapilir.  //pojoUrun
+    id
+    urunIsmi
+    urun grubu
+    uretici
+    miktar
+    birim
+    son tuketim tarihi
+    raf (6 adet fields mevcut)
+
+
+2-) methodlar olusturacagiz.*
+urunTanimlama   ==>  otomatik ID verecek. urunun ismi, urun grubu, ureticisi, son kullanma tarihi ve birimi girilecek. //MAP<id,pojoUrun>   RAF="-"ve Miktar=0 //arraylist*
+stokYonetimi     ==> tanimlanan urunler listelenecek. urun arama yapilabilecek. urunun adeti ve raf numarasi tanimlama yapilmadiysa default deger gorunsun.
+///  printf(%10)
+urunGirisi      ==> giris yapmak istedigimiz urnunun id numarasi ile girecegiz.*
+urunuRafaKoy    ==> listeden urunu sececegiz ve id numarasina gore urunu rafa koyacagiz. dukkandaki tum raflari onceden tanmliyor olmaliyiz.*
+urunCikisi      ==> listeden urunu sececegiz ve urunun cikis yapcagiz. burada urun listesinden sadece miktarda degisiklik yapilacak.
+urun adedi 0dan az olamaz. 0 olunca urun tanimlamasi silinmesin. sadece miktari 0 olsun.  ///exception
+===> yaptigimiz tum degisiklikler urun listesinde de gorunsun.*

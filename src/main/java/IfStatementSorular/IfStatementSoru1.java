@@ -1,4 +1,4 @@
-package ifStatementSorular;
+package ifstatementsorular;
 
 import java.util.Scanner;
 
