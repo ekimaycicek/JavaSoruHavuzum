@@ -21,10 +21,13 @@ public class LoopSoru12 {
 
         System.out.print("Bir tamsayı giriniz: ");
         int sayi = scanner.nextInt();
-        int toplam = 0;
+        int toplam = 0;//Bu değişken, toplamı hesaplamak için kullanılacak.
 
         for (int i = 1; i < sayi; i++) {
 
+            //öngü bloğunda, her i değeri için toplam değişkeni güncellenir. Her bir
+            // i değeri için (i * i) ifadesi kullanılarak i'nin karesi elde edilir
+            // ve bu değer toplam değişkenine eklenir: toplam = (i * i) + toplam;
             toplam = (i * i) + toplam;
 
         }

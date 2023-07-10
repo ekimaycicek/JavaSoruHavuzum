@@ -25,20 +25,18 @@ public class IfStatementSoru5 {
         int secim= sc.nextInt();
 
         if(secim==1){
-            System.out.println("toplama sonucu: " + sayi1 + "+" + sayi2 + "=" + (sayi1 + sayi2));
+            System.out.println("toplama sonucu: "+ (sayi1 + sayi2));
         }
         else if(secim==2){
-            System.out.println("toplama sonucu: " + sayi1 + "*" + sayi2 + "=" + (sayi1 * sayi2));
+            System.out.println("toplama sonucu: " + (sayi1 * sayi2));
         }
         else if(secim==3){
-            System.out.println("toplama sonucu: " + sayi1 + "-" + sayi2 + "=" + (sayi1 - sayi2));
+            System.out.println("toplama sonucu: " + (sayi1 - sayi2));
         }
         else if(secim==4){
-            System.out.println("toplama sonucu: " + sayi1 + "/" + sayi2 + "=" + (sayi1 / sayi2));
+            System.out.println("toplama sonucu: " + (sayi1 / sayi2));
         }
-        else System.out.println("düzzgün sayı gir");
-
-
+        else System.out.println("düzgün sayı gir");
 
 
 
